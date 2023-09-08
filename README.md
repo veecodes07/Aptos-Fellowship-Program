@@ -3,7 +3,8 @@
 
 
 
-This is a repo for basic crash course on Move Language , especially for Aptos Network.
+This is a repo for all the basic move language code practised during the Fellowship.
+Checkout the ```setup.txt``` file for installation.
 ## Authors
 
 - [@veecodes07](https://www.github.com/veecodes07)
